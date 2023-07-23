@@ -1,5 +1,5 @@
 from random import randint
-from objects import IntegerInput
+from Inputs import IntegerInput
 from Jokenpo.base import jogada, ITENS
 
 MENU_JOGADA = '''Faça sua Jogada:
